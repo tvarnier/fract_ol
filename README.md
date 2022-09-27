@@ -1,4 +1,4 @@
-# FRACT'OL [[Sujet](https://github.com/tvarnier/42/blob/master/graphic/fract_ol/subject.pdf)]
+# FRACT'OL [[Sujet](https://github.com/tvarnier/fract_ol/blob/master/subject.pdf)]
 
 <br>
 
@@ -19,7 +19,7 @@ Il suffit ensuite de lancer la commande `./fractol <fractal_number or fractal_na
 ### 1 - Julia Set `julia`
 
 <div width="50%">
-  <img src="https://github.com/tvarnier/42/blob/master/graphic/fract_ol/img/julia.png" width="75%">
+  <img src="https://github.com/tvarnier/fract_ol/blob/master/img/julia.png" width="75%">
 </div>
 
 <br>
@@ -27,7 +27,7 @@ Il suffit ensuite de lancer la commande `./fractol <fractal_number or fractal_na
 ### 2 - Mandelbrot Set `mandelbrot`
 
 <div width="50%">
-  <img src="https://github.com/tvarnier/42/blob/master/graphic/fract_ol/img/mandelbrot.png" width="75%">
+  <img src="https://github.com/tvarnier/fract_ol/blob/master/img/mandelbrot.png" width="75%">
 </div>
 
 <br>
@@ -35,7 +35,7 @@ Il suffit ensuite de lancer la commande `./fractol <fractal_number or fractal_na
 ### 3 - Burning Ship `burningship`
 
 <div width="50%">
-  <img src="https://github.com/tvarnier/42/blob/master/graphic/fract_ol/img/burningship.png" width="75%">
+  <img src="https://github.com/tvarnier/fract_ol/blob/master/img/burningship.png" width="75%">
 </div>
 
 <br>
@@ -43,7 +43,7 @@ Il suffit ensuite de lancer la commande `./fractol <fractal_number or fractal_na
 ### 4 - Pythagoras Tree `pythagoras`
 
 <div width="50%">
-  <img src="https://github.com/tvarnier/42/blob/master/graphic/fract_ol/img/pythagoras.png" width="75%">
+  <img src="https://github.com/tvarnier/fract_ol/blob/master/img/pythagoras.png" width="75%">
 </div>
 
 <br>
@@ -51,7 +51,7 @@ Il suffit ensuite de lancer la commande `./fractol <fractal_number or fractal_na
 ### 5 - Barnsley Fern `barnsley`
 
 <div width="50%">
-  <img src="https://github.com/tvarnier/42/blob/master/graphic/fract_ol/img/barnsley.png" width="75%">
+  <img src="https://github.com/tvarnier/fract_ol/blob/master/img/barnsley.png" width="75%">
 </div>
 
 <br>
